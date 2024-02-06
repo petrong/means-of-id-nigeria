@@ -1,2 +1,2 @@
 # means-of-id-nigeria
-A list of Valid Means od Identification in Nigeria
+A list/dataset of Valid Means of Identification in Nigeria
